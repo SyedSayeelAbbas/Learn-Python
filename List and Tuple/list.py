@@ -1,0 +1,14 @@
+mark1=97
+mark2=78
+mark3=56
+mark4=90
+#or
+mark=[12.45,78,59]
+student=["Sayeel",100,'hyderabad']
+str=["random","hai","yie"]
+print(mark)
+print(mark[2])
+print(student)
+print(str)
+str[0]="guessed"
+print(str)
